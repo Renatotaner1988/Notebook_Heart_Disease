@@ -1,1 +1,8 @@
-MVP
+## Diagnóstico de Doenças Cardiovasculares usando Machine Learning
+
+As doenças do coração são alterações no funcionamento do sistema cardíaco e, de acordo com a Organização Mundial da Saúde (OMS), atualmente, mais pessoas morrem anualmente por essas enfermidades do que por qualquer outra causa.
+As doenças cardiovasculares incluem: doença coronariana, doença cerebrovascular, doença arterial periférica, doença cardíaca reumática, cardiopatia congênita, doença reumática, entre outras.
+Diversos fatores de risco estão associados ao desenvolvimento de DCV, os quais podem ser modificáveis ou não modificáveis. Os fatores modificáveis incluem hiperlipidemia, tabagismo, etilismo, obesidade, sedentarismo, má alimentação, etc; já os não modificáveis incluem fatores hereditários, idade, sexo e raça.
+
+Uso de Machine Learning na Detecção de Doenças Cardiovasculares
+Nos dias atuais, a implementação de técnicas computacionais na área da saúde tem se tornado cada vez mais intensa, com destaque para algoritmos de aprendizado de máquina e redes neurais artificiais. Fazendo-se uso de modelos matemáticos, é possível afirmar ou negar, a partir de um conjunto de dados clínicos, o grau de influência de determinados sintomas no desenvolvimento ou aparecimento de doenças.
